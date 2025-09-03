@@ -51,12 +51,6 @@ python password_checker.py
 
 ---
 
-## 🖼 Screenshot
-
-*Add a screenshot here if you'd like! (e.g., of the GUI with a test password).*
-
----
-
 ## 📁 File Structure
 
 
@@ -70,23 +64,7 @@ password-strength-checker/
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-* Suggest new features (e.g., entropy scoring, breach detection)
-* Improve the UI
-* Report bugs
-
----
-
-## 📬 Contact
-
-Feel free to reach out on [LinkedIn](#) or open an issue in this repo if you have questions or suggestions.
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -95,6 +73,3 @@ Feel free to reach out on [LinkedIn](#) or open an issue in this repo if you hav
 This tool was developed as part of my **Skill Craft Cybersecurity Internship** to practice password validation, Regex, and secure user input handling.
 
 ---
-
-Or I can help you create a GitHub Pages demo if you want to make a web version later.
-```
